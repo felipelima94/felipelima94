@@ -1,6 +1,6 @@
 ### Felipe Lima 👋
 
-![Felipe Lima github stats](https://github-readme-stats.vercel.app/api?username=felipelima94&show_icons=true&hide_border=true)
+![Felipe Lima github stats](https://github-readme-stats.vercel.app/api?username=felipelima94&show_icons=true&hide_border=true&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipelima94&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
