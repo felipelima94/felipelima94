@@ -1,4 +1,8 @@
-### Hi there 👋
+### Felipe Lima 👋
+
+![Felipe Lima github stats](https://github-readme-stats.vercel.app/api?username=felipelima94&show_icons=true&hide_border=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipelima94&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **felipelima94/felipelima94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
