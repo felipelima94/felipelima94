@@ -1,5 +1,7 @@
 ### Hello, I'm Felipe Lima! 👋
 
+_I'm DevOps at Solinftec. I'm a technology enthusiast._
+
 <div style="display: flex; justify-content: center; flex-direction:row;">
   <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=felipelima94&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" 
        alt="Felipe's github stats" />
