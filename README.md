@@ -1,13 +1,10 @@
 ### Felipe Lima 👋
 
-<div style="display:flex; flex-direction:row">
-  <img align="center" 
-       src="https://github-readme-stats.vercel.app/api?username=felipelima94&show_icons=true&hide_border=true&count_private=true" 
+<div style="display: flex; justify-content: center; flex-direction:row;">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=felipelima94&show_icons=true&hide_border=true&count_private=true" 
        alt="Felipe's github stats" />
 
-
-  <img align="center" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelima94&layout=compact&count_private=true" 
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelima94&layout=compact&count_private=true" 
        alt="Felipe's github stats" />
  </div>
 <!--
