@@ -6,7 +6,7 @@ _I'm DevOps at Solinftec. I'm a technology enthusiast._
   <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=felipelima94&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" 
        alt="Felipe's github stats" />
 
-  <img align="right" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelima94&layout=compact&count_private=true" 
+  <img align="right" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelima94&layout=compact&hide_border=true&count_private=true" 
        alt="Felipe's github stats" />
  </div>
 <!--
