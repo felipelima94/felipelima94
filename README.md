@@ -1,9 +1,15 @@
 ### Felipe Lima 👋
 
-![Felipe Lima github stats](https://github-readme-stats.vercel.app/api?username=felipelima94&show_icons=true&hide_border=true&count_private=true)
+<div style="display:flex; flex-direction:row">
+  <img align="center" 
+       src="https://github-readme-stats.vercel.app/api?username=felipelima94&show_icons=true&hide_border=true&count_private=true" 
+       alt="Felipe's github stats" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipelima94&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+  <img align="center" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelima94&layout=compact&count_private=true" 
+       alt="Felipe's github stats" />
+ </div>
 <!--
 **felipelima94/felipelima94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
