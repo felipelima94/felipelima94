@@ -5,7 +5,7 @@ _I am a software engineer and work with the DevOps team at Solinftec to automate
   <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=felipelima94&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" 
        alt="Felipe's github stats" />
 
-  <img align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelima94&layout=compact&hide_border=true&count_private=true" 
+  <img align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelima94&layout=compact&hide_border=true&langs_count=7&count_private=true" 
        alt="Felipe's github stats top languages" />
 </div>
 
