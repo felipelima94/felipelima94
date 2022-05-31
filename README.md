@@ -1,6 +1,7 @@
-### Hello, I'm Felipe Lima! 👋
+### Hello, I'm Felipe Lima! 👋 
+I'am a Reliability Engineer
 
-_I am a software engineer and work with the DevOps team at Solinftec to automate the infrastructure._
+_I love programming, researching new technologies and share knowledge with my team and friends._
 <div style="display: flex; flex-direction: row;">
   <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=felipelima94&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" 
        alt="Felipe's github stats" />
